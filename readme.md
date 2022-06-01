@@ -1,1 +1,1 @@
-This is a sample repo and update the file
+This is a sample repo.
